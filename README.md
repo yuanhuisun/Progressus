@@ -1,7 +1,7 @@
-Progressus - Free business/corporate Bootstrap template
+Personal Portal - A Easy Entry for Personal Use
 =============
 
-Progressus is a free, responsive, nice-looking business template based on Bootstrap HTML/CSS framework. 
+Intentionally Personal Portal is a esay entry point for personal use empowered by Progressus, which is a free, responsive, nice-looking business template based on Bootstrap HTML/CSS framework. 
 
 
 License
